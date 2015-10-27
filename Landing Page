@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Frütea-Granulated Dried Fruit Tea</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+	<style>
+	
+	div.header {
+		margin: 50px;
+	}
+	
+	div.logo {
+		padding-left: 350px;
+	}
+	
+	div.nav {
+		margin: 50px;
+		text-align: center;
+	}
+	
+	div.who we are, h1, p {
+		margin: 10px;
+		padding-left: 400px;
+		
+	}
+	
+	h1 {
+		float:inherit;
+		padding-top: 20px;
+	}
+	
+	p {
+		padding-top: 20px;
+	}
+	
+	div.who we are, img {
+		margin: 10px;
+		padding-left: 50px;
+	}
+	
+	div.why frutea {
+		float: left;
+	}
+	
+	div.why frutea img {
+		float: right;
+	}
+	
+	div.footer {
+		background-color: #C60;
+	}
+	
+	div.footer p {
+		color: #999;
+	}
+	
+	</style>
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<link href="css/bootstrap-theme.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+  
+  <!-- header -->
+  <div class="header">
+    <img src="images/blood-orange-fruit-tea.jpg" width="1050" height="600" />
+    
+  </div>  
+    <!-- end header -->
+  
+  <!-- logo -->
+  <div class="logo">
+    <img src="images/logo.png" align="middle" />
+   
+   
+   </div>
+   <!-- end logo -->
+   
+   <!-- nav -->
+   <div class="nav">
+       <ul>
+            <span>Home</span>
+            <span>Who We Are</span>
+            <span>Why Frutea</span>
+            <span>Order</span>
+            <span>Contact Us</span>
+       </ul>
+   </div>
+   <!-- end nav -->
+   
+   <!-- body -->
+   
+   <!-- who we are -->
+   <div id="who we are">
+       <img src="images/photo-1423483641154.jpg" width="341.3" height="227.3"/>
+       
+       <h1>Who We Are</h1>
+       
+       	
+       
+           <p>Nourish your body with what nature provides. WIth the sweetness of a fresh strawberry,
+           to the tartness of a tangerine…Naturally.</p>
+       
+   
+   </div>
+   <!-- end who we are -->
+   
+      <!-- why frutea -->
+   <div class="why frutea">
+       <h1>Why Frütea?</h1>
+       
+           <p>All the proper neautrients for your body without the loss of the great taste by going natural.</p>
+           
+           <img src="images/dacadoo_Icon_Size1500px.png" width="300" height="251" />
+       
+   </div>
+   <!-- end why frutea -->
+   
+      <!-- order -->
+   <div class="order">
+       <h1>Order</h1>
+       
+           <p>Order Your Frütea today!</p>
+           
+       
+   </div>
+   <!-- end order -->
+   
+   <!-- contact us -->
+   <div class="contact us">
+       <h1>Contact Us</h1>
+             <p>Order Your Frütea today!</p>
+
+           
+       
+   </div>
+   <!-- end contact us -->
+   
+   <!-- footer -->
+   <div class="footer">
+   
+   		<p>Class Project Not Made For Resale</p>
+        
+   </div>
+   <!-- end footer -->
+   
+   <!-- end body -->
+ 
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
